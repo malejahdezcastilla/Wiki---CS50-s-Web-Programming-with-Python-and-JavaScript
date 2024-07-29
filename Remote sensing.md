@@ -1,0 +1,60 @@
+**Remote sensing** is the science of obtaining information about objects or areas from a distance, typically from aircraft or satellites.
+
+
+
+Remote sensing has a wide range of applications in many different fields:
+
+
+
+- **Coastal applications:** Monitor shoreline changes, track sediment transport, and map coastal features. Data can be used for coastal mapping and erosion prevention.
+
+
+
+- **Ocean applications:** Monitor ocean circulation and current systems, measure ocean temperature and wave heights, and track sea ice. Data can be used to better understand the oceans and how to best manage ocean resources.
+
+
+
+- **Hazard assessment:** Track hurricanes, earthquakes, erosion, and flooding. Data can be used to assess the impacts of a natural disaster and create preparedness strategies to be used before and after a hazardous event.
+
+
+
+- **Natural resource management:** Monitor land use, map wetlands, and chart wildlife habitats. Data can be used to minimize the damage that urban growth has on the environment and help decide how to best protect natural resources.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

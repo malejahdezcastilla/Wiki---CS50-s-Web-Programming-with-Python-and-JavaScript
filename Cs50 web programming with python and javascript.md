@@ -1,0 +1,1 @@
+This [course](https://cs50.harvard.edu/web/2020/) dives deeply into design and implementation of web apps with Python JavaScript, and SQL using frameworks like Django, React and Bootstrap.
